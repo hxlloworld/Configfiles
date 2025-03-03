@@ -1,0 +1,31 @@
+//ESSENTIAL
+  gdm
+  nano
+  firefox
+  kate
+  
+//HYPRLAND
+  starship
+  git
+  git-credential-manager(aur)
+  yay(git)
+  hyprland
+  hyprnome(aur)
+  waybar
+  wofi
+  pipewire
+  pwvucontrol(aur)
+  man
+  networkmanager
+  nwg-look
+  adw-gtk-theme
+  nerd-fonts
+  gradience(aur)
+  qt6ct
+  kitty
+
+//I3
+  i3-wm
+  polybar
+  rofi
+  
