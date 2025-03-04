@@ -23,6 +23,7 @@
   gradience(aur)
   qt6ct
   kitty
+  dotnet-runtime
 
 //I3
   i3-wm
