@@ -3,7 +3,8 @@
   nano
   firefox
   kate
-  
+  dolphin
+
 //HYPRLAND
   starship
   git
